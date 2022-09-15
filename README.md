@@ -14,3 +14,6 @@ On the web page you can scroll through different UFO sightings around US.
 And you can use the filters on the left to get to more specipied results. Just simply input "Date", "City", "State", "Country", "Shape" of UFO. then press enter.
 
 ## Summary:
+The webpage is easy to use and works as it intends to. But there are some drawbacks and the biggest one is that data it can show is fixed, it can't provide latest, most up to date data. The data will remain the same unless someone manually update the data file that is associated with the webpage.
+
+We can add a functionality that can automatically web-scraping data from online source and update the data to keep the info up to date. And adding a "Duration" filter can help the user to do a more specific search.
